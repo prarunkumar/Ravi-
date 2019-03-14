@@ -5,6 +5,10 @@ i am very good
  i will make conflicts
  
  fetch
+<<<<<<< HEAD
 
  i am very bad
  I mmNNABHBAN
+=======
+bscaGSVSHADJHDGS
+>>>>>>> 9d408f370d14df2d010a71f9186da6c56a929751
